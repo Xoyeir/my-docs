@@ -4,7 +4,7 @@
 
 - 网站地址：<https://Xoyeir.github.io/my-docs/>
 - 文档源码：`docs/`
-- 实践记录：`report/`
+- 实践记录与报告：[个人实验报告](report/README.md)
 
 ## 目录结构
 
